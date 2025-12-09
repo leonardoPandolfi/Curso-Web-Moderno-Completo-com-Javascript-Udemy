@@ -10,3 +10,7 @@ meuObjeto.prototype.nome = 'Anonimo'
 meuObjeto.prototype.falar = function() {
     console.log(`Bom dia! Meu nome é ${this.nome}!`)
 }
+
+
+
+//teste git
